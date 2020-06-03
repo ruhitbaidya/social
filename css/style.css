@@ -1,0 +1,31 @@
+body{
+  background:black;
+  color:white;
+}
+.navbar{
+  border-bottom:3px solid #008ed6;
+  opacity:0.8;
+}
+#home_section{
+  background:url('../img/header-bg.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center center;
+  min-height:700px;
+  background-attachment:fixed;
+
+}
+.dark-overlay{
+  background:rgba(0,0,0,0.7);
+  min-height:700px;
+}
+.home_inner{
+  padding-top:130px;
+  padding-bottom:50px;
+}
+.card{
+  opacity:0.8
+}
+img{
+  
+}
